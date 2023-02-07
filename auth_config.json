@@ -1,0 +1,7 @@
+{
+    "domain": "dev-w--d5bnc.us.auth0.com",
+    "clientId": "6UDQuYWhPStn4curl8AZxWLI1fv4AEEB",
+    "audience": "https://dev-w--d5bnc.us.auth0.com/api/v2/",
+    "serverUrl": "http://localhost:4200"
+  }
+  
